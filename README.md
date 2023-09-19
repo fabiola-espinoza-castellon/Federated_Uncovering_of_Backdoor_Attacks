@@ -1,4 +1,6 @@
 # FUBA: Federated Uncovering of Backdoor Attacks
+This is the code for the method FUBA: Federated Uncovering of Backdoor Attacks.
+Our paper was accepted on the Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications.
 
 # Before usage
 This section lists any major frameworks/libraries used in the code.
