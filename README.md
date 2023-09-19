@@ -1,4 +1,4 @@
-# FL-Bandage: Uncovering and Mitigating Backdoor Attacks in Federated Learning
+# FUBA: Federated Uncovering of Backdoor Attacks
 
 # Before usage
 This section lists any major frameworks/libraries used in the code.
